@@ -1,8 +1,0 @@
-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
-
-cd C:\Disk_D\USERS\Buhrii_Kh\university\GitHub_progect_folder
-git remote add origin https://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@github.com/khrystynabuhrii/data-analysis.git
-
-git add .
-git commit -m "test"
-git push origin master
